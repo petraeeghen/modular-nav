@@ -10,7 +10,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  font-family:sans-serif;
+  font-family: sans-serif;
 }
 
 *, *::before, *::after {
@@ -20,6 +20,7 @@ html {
 header {
   background-color: #e2e2e2;
   text-align: center;
+  text-align: left;
 }
 
 body {
@@ -29,9 +30,9 @@ body {
 ul {
   padding: 0;
 }
+
 li {
   display: inline-block;
-
 }
 
 a {
@@ -40,7 +41,7 @@ a {
 
 li a {
   text-decoration: none;
-  padding: .5em
+  padding: .5em;
 }
 
 li a:hover {
